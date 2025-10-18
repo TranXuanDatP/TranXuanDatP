@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TranXuanDatP
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CS50
 
 <!---
 TranXuanDatP/TranXuanDatP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
